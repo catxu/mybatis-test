@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <BatchBean MODEL_CODE="INDEX_NAN" IS_UNITED_ACCESS="false"
+               IS_SUNECM_COSOLE="false" IS_BREAK_POINT="false"
+               IS_DOWNLOAD="false">
+        <index_Object CONTENT_STATUS="1" SERVER_ID="1"
+                      UPLOAD_USER="admin"
+                      CONTENT_ID="201311_94_D1AC8B57-2804-DE85-C532-32632026275F-1"
+                      SERVER_IP="172.16.3.32" SOCKET_PORT="8023" HTTP_PORT="9080"
+                      VERSION="1"
+                      MAX_VERSION="1" GROUP_ID="1">
+            <customMap>
+                <END_TIME>
+                    <string>null</string>
+                </END_TIME>
+                <START_TIME>
+                    <string>20181225</string>
+                </START_TIME>
+                <NEAR_PATH>
+                    <string>null</string>
+                </NEAR_PATH>
+            </customMap>
+        </index_Object>
+        <document_Objects>
+            <BatchFileBean FILE_PART_NAME="DOC_NAN_1">
+                <files>
+                    <FileBean VERSION="1" UPLOAD_TIME="20131114102440"
+                              FILE_FORMAT="jpg"
+                              FILE_NO="8E0D3700-5927-0CDE-2551-20D8DED3CEC9"
+                              SAVE_NAME="8E0D3700-5927-0CDE-2551-20D8DED3CEC9"
+                              CONTENT_ID="201311_94_D1AC8B57-2804-DE85-C532-32632026275F-1"
+
+                              FILE_NAME="/SunECM/201311/94/8E0D3700-5927-0CDE-2551-20D8DED3CEC9"
+                              FILE_SIZE="100474" SERVER_ID="1"
+
+                              URL="http://172.16.3.32:9080/SunECMDM/servlet/getFile?ZmlsZVBhdGg9L1N
+1 bkVDTS8yMDEzMTEvOTQvJmVmZlRpbWU9MjAxMzExMTQxMDI2JmZpbGVUeXBlPWpwZyZmaWxl
+SUQ9OEUwRDM3MDAtNTkyNy0wQ0RFLTI1NTEtMjBEOERFRDNDRUM5JmZpbGVTaXplPTEwMDQ3N
+CZzZXJ2ZXJJRD0x">
+                        <otherAtt>
+                            <START_TIME>
+                                <string>null</string>
+                            </START_TIME>
+                            <IDCARD>
+                                <string>330301198811048888</string>
+                            </IDCARD>
+                            <NEAR_PATH>
+                                <string>null</string>
+                            </NEAR_PATH>
+                        </otherAtt>
+                    </FileBean>
+                </files>
+            </BatchFileBean>
+        </document_Objects>
+    </BatchBean>
+</root>
